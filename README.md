@@ -9,6 +9,6 @@ unknown105227/unknown105227 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-https://github.com/unknown105227
+https://unknown105227.github.io/
 
 운지천 드링크 F
